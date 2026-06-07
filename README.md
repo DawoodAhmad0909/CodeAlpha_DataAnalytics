@@ -89,9 +89,9 @@ reviews using Natural Language Processing.
 | Environment | VS Code, Jupyter Notebook |
 
 ---
-
-## 📂 Repository Structure
-``` DataAnalytics/
+## Reository Structure
+```
+DataAnalytics/
 |
 |-- Task1_WebScraping/
 |   |-- 1-scraping_single_page_amazon.ipynb
@@ -116,4 +116,5 @@ reviews using Natural Language Processing.
 |   |-- chart6_sentiment_distribution.png
 |   └-- chart7_polarity_distribution.png
 |
-└-- README.md ```
+└-- README.md
+```
