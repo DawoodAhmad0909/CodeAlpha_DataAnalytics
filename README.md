@@ -89,7 +89,7 @@ reviews using Natural Language Processing.
 | Environment | VS Code, Jupyter Notebook |
 
 ---
-## Reository Structure
+## RePository Structure
 ```
 DataAnalytics/
 |
@@ -120,4 +120,5 @@ DataAnalytics/
 ```
 ## Author
 **Dawood Ahmad**
--  Linkedin URL : [www.linkedin.com/in/dawood-ahmad-90676b319]
+-  Linkedin : www.linkedin.com/in/dawood-ahmad-90676b319
+-  GitHub : https://github.com/DawoodAhmad0909
