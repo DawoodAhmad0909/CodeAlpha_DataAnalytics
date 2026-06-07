@@ -91,3 +91,29 @@ reviews using Natural Language Processing.
 ---
 
 ## 📂 Repository Structure
+``` DataAnalytics/
+|
+|-- Task1_WebScraping/
+|   |-- 1-scraping_single_page_amazon.ipynb
+|   |-- 4-scraping_multiple_products_amazon.ipynb
+|   |-- 5-Data_Cleaning.ipynb
+|   └-- amazon_products.csv
+|
+|-- Task2_EDA/
+|   |-- netflix_eda.ipynb
+|   └-- netflix_titles.csv
+|
+|-- Task3_Visualization/
+|   |-- netflix_visualization.ipynb
+|   |-- chart1_movies_vs_shows.png
+|   |-- chart2_top_countries.png
+|   |-- chart3_growth_over_years.png
+|   |-- chart4_top_genres.png
+|   └-- chart5_heatmap.png
+|
+|-- Task4_SentimentAnalysis/
+|   |-- sentiment_analysis.ipynb
+|   |-- chart6_sentiment_distribution.png
+|   └-- chart7_polarity_distribution.png
+|
+└-- README.md ```
