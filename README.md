@@ -89,7 +89,7 @@ reviews using Natural Language Processing.
 | Environment | VS Code, Jupyter Notebook |
 
 ---
-## RePository Structure
+## Repository Structure
 ```
 DataAnalytics/
 |
