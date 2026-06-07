@@ -119,5 +119,5 @@ DataAnalytics/
 └-- README.md
 ```
 ## Author
-** Dawood Ahmad **
+**Dawood Ahmad**
 -  Linkedin URL : [www.linkedin.com/in/dawood-ahmad-90676b319]
